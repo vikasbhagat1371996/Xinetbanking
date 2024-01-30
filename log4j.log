@@ -1,0 +1,82 @@
+2024-01-26 20:14:23,144 INFO  - url is open
+2024-01-26 20:14:23,452 INFO  - username is entered
+2024-01-26 20:14:23,630 INFO  - password is entered
+2024-01-26 20:14:27,384 INFO  - clicked on submit button
+2024-01-27 20:19:24,231 INFO  - url is open
+2024-01-27 20:19:24,646 INFO  - username is entered
+2024-01-27 20:19:24,813 INFO  - password is entered
+2024-01-27 20:19:38,047 INFO  - clicked on submit button
+2024-01-27 20:19:38,110 INFO  - login test passed
+2024-01-27 20:20:21,183 INFO  - url is open
+2024-01-27 20:20:21,521 INFO  - username is entered
+2024-01-27 20:20:21,681 INFO  - password is entered
+2024-01-27 20:20:24,541 INFO  - clicked on submit button
+2024-01-27 20:20:24,591 INFO  - login test passed
+2024-01-27 20:21:51,363 INFO  - url is open
+2024-01-27 20:21:51,667 INFO  - username is entered
+2024-01-27 20:21:51,817 INFO  - password is entered
+2024-01-27 20:22:09,703 INFO  - clicked on submit button
+2024-01-27 20:23:02,075 INFO  - url is open
+2024-01-27 20:23:02,371 INFO  - username is entered
+2024-01-27 20:23:02,542 INFO  - password is entered
+2024-01-27 20:23:13,669 INFO  - clicked on submit button
+2024-01-27 20:23:13,693 INFO  - login test passed
+2024-01-27 20:33:47,084 INFO  - url is open
+2024-01-27 20:33:47,514 INFO  - username is entered
+2024-01-27 20:33:47,723 INFO  - password is entered
+2024-01-27 20:33:53,694 INFO  - clicked on submit button
+2024-01-27 22:42:53,728 INFO  - url is open
+2024-01-27 22:42:57,029 INFO  - username is entered
+2024-01-27 22:42:57,234 INFO  - password is entered
+2024-01-27 22:43:09,469 INFO  - clicked on submit button
+2024-01-27 22:43:10,013 INFO  - login test passed
+2024-01-28 00:06:18,725 INFO  - url is open
+2024-01-28 00:06:29,518 INFO  - username is entered
+2024-01-28 00:06:30,153 INFO  - password is entered
+2024-01-28 00:06:46,978 INFO  - clicked on submit button
+2024-01-28 00:06:47,163 INFO  - login test passed
+2024-01-28 00:13:45,635 INFO  - url is open
+2024-01-28 00:13:53,674 INFO  - username is entered
+2024-01-28 00:13:53,891 INFO  - password is entered
+2024-01-28 00:14:15,924 INFO  - clicked on submit button
+2024-01-28 00:14:16,034 INFO  - login test passed
+2024-01-28 00:35:52,385 INFO  - url is open
+2024-01-28 00:35:53,414 INFO  - username is entered
+2024-01-28 00:35:53,631 INFO  - password is entered
+2024-01-28 00:35:59,127 INFO  - clicked on submit button
+2024-01-29 00:58:17,290 INFO  - url is open
+2024-01-29 01:00:03,806 INFO  - url is open
+2024-01-29 01:00:04,177 INFO  - username is entered
+2024-01-29 01:00:04,320 INFO  - password is entered
+2024-01-29 01:00:08,492 INFO  - clicked on submit button
+2024-01-29 01:00:08,560 INFO  - login test passed
+2024-01-29 21:00:59,997 INFO  - url is open
+2024-01-29 21:01:00,733 INFO  - username is entered
+2024-01-29 21:01:00,874 INFO  - password is entered
+2024-01-29 21:01:19,121 INFO  - clicked on submit button
+2024-01-29 21:01:19,153 INFO  - login test passed
+2024-01-29 22:25:21,863 INFO  - url is open
+2024-01-29 22:25:22,211 INFO  - username is entered
+2024-01-29 22:25:22,345 INFO  - password is entered
+2024-01-29 22:25:27,969 INFO  - clicked on submit button
+2024-01-29 22:25:28,010 INFO  - login test passed
+2024-01-29 23:00:45,421 INFO  - url is open
+2024-01-29 23:12:58,274 INFO  - url is open
+2024-01-30 00:02:05,316 INFO  - url is open
+2024-01-30 00:02:06,691 INFO  - username is entered
+2024-01-30 00:02:07,117 INFO  - password is entered
+2024-01-30 00:02:09,266 INFO  - clicked on submit button
+2024-01-30 00:03:23,196 INFO  - url is open
+2024-01-30 00:03:23,767 INFO  - username is entered
+2024-01-30 00:03:23,971 INFO  - password is entered
+2024-01-30 00:03:26,668 INFO  - clicked on submit button
+2024-01-30 00:04:29,091 INFO  - url is open
+2024-01-30 00:04:29,515 INFO  - username is entered
+2024-01-30 00:04:29,727 INFO  - password is entered
+2024-01-30 00:04:37,570 INFO  - clicked on submit button
+2024-01-30 00:04:37,612 INFO  - login test passed
+2024-01-30 00:21:29,405 INFO  - url is open
+2024-01-30 00:21:29,998 INFO  - username is entered
+2024-01-30 00:21:30,164 INFO  - password is entered
+2024-01-30 00:21:38,616 INFO  - clicked on submit button
+2024-01-30 00:21:38,647 INFO  - login test passed
