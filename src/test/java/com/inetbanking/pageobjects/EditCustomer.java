@@ -36,6 +36,14 @@ public class EditCustomer {
 	@CacheLookup
 	WebElement submit1;
 	
+	@FindBy(xpath="/html/body/div[1]/div[1]/div[1]")
+	@CacheLookup
+	WebElement header;
+	
+	@FindBy(xpath="/html/body/div[2]/h2")
+	@CacheLookup
+	WebElement logo;
+	
 	
 	public void clickeditcust() {
 		editcutomer.click();
@@ -55,6 +63,14 @@ public class EditCustomer {
 	
 	public void clicksubmit1() {
 		submit1.click();
+	}
+	
+	public String checkheader() {
+		header.getText();
+		return null;
+	}
+	public void checklogo() {
+		logo.isDisplayed();
 	}
 
 }

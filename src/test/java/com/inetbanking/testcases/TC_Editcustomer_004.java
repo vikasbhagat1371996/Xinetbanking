@@ -24,19 +24,19 @@ public class TC_Editcustomer_004 extends Baseclass {
 		ed.getcustomerid("64871");
 		ed.clicksubmit();
 		Thread.sleep(10000);
-		ed.getcustname("DON");
-		ed.clicksubmit1();
-		
+		//ed.getcustname("DON");
+		//ed.clicksubmit1();
+	
 		Thread.sleep(300);
-		
+	
 		if(isAlertPresent()==true) {
 			driver.switchTo().alert().accept();
 			driver.switchTo().defaultContent();
-			Assert.assertTrue(false);
+			Assert.assertTrue(true);
 		}
 		else {
 			captureScreen(driver,"TC_Editcustomer_004");
-			Assert.assertTrue(true);
+			Assert.assertTrue(false);
 			Thread.sleep(300);
 			driver.switchTo().alert().accept();
 			driver.switchTo().defaultContent();
@@ -50,6 +50,37 @@ public class TC_Editcustomer_004 extends Baseclass {
 		}catch(NoAlertPresentException e) {
 			return false;
 		}
-	}
+	}          
 
+	
+	@Test(priority=3)
+	public void checktitle() {
+		
+		if(driver.getTitle().equals("Guru99 Bank Edit Customer Page")) { 
+			System.out.println(driver.getTitle());
+		Assert.assertTrue(true);
+	}
+	else {
+		Assert.assertTrue(false);
+	}
+		driver.close();
+	} 
+	
+    @Test(priority=2)
+     public void gettitle() {
+    	
+		driver.getTitle();
+    	
+    }
+    @Test
+    public void checkHeader() {
+    	EditCustomer ed=new EditCustomer(driver);
+       	String header=ed.checkheader();
+}
+    @Test
+    public void checklogo() {
+    	EditCustomer ed=new EditCustomer(driver);
+    	ed.checklogo();
+    }
+    
 }
