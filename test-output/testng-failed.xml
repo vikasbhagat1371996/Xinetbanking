@@ -7,13 +7,13 @@
   <test thread-count="5" name="BaseClass(failed)">
     <parameter name="browser" value="chrome"/>
     <classes>
-      <class name="com.inetbanking.testcases.TC_Editcustomer_004">
+      <class name="com.inetbanking.testcases.TC_Addcustomerpage_003">
         <methods>
           <include name="teardown"/>
-          <include name="editcustomer"/>
           <include name="setup"/>
+          <include name="addcustomer"/>
         </methods>
-      </class> <!-- com.inetbanking.testcases.TC_Editcustomer_004 -->
+      </class> <!-- com.inetbanking.testcases.TC_Addcustomerpage_003 -->
     </classes>
   </test> <!-- BaseClass(failed) -->
 </suite> <!-- Failed suite [Xinetbankingv2] -->

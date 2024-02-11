@@ -105,3 +105,28 @@
 2024-01-30 15:42:25,474 INFO  - password is entered
 2024-01-30 15:42:32,031 INFO  - clicked on submit button
 2024-01-30 15:42:32,065 INFO  - login test passed
+2024-02-01 12:56:06,185 INFO  - url is open
+2024-02-01 12:56:06,403 INFO  - username is entered
+2024-02-01 12:56:06,577 INFO  - password is entered
+2024-02-01 12:56:08,536 INFO  - clicked on submit button
+2024-02-01 12:56:08,552 INFO  - login test passed
+2024-02-11 14:24:43,897 INFO  - url is open
+2024-02-11 14:24:44,444 INFO  - username is entered
+2024-02-11 14:24:44,588 INFO  - password is entered
+2024-02-11 14:24:49,005 INFO  - clicked on submit button
+2024-02-11 14:24:49,030 INFO  - login test passed
+2024-02-11 14:34:07,137 INFO  - url is open
+2024-02-11 14:34:07,481 INFO  - username is entered
+2024-02-11 14:34:07,657 INFO  - password is entered
+2024-02-11 14:34:11,044 INFO  - clicked on submit button
+2024-02-11 14:34:11,071 INFO  - login test passed
+2024-02-11 15:03:04,378 INFO  - url is open
+2024-02-11 15:03:04,701 INFO  - username is entered
+2024-02-11 15:03:04,905 INFO  - password is entered
+2024-02-11 15:03:07,936 INFO  - clicked on submit button
+2024-02-11 15:03:07,962 INFO  - login test passed
+2024-02-11 15:16:40,163 INFO  - url is open
+2024-02-11 15:16:40,371 INFO  - username is entered
+2024-02-11 15:16:40,520 INFO  - password is entered
+2024-02-11 15:17:01,297 INFO  - clicked on submit button
+2024-02-11 15:17:01,311 INFO  - login test passed

@@ -32,8 +32,25 @@ public class TC_logintest_001 extends Baseclass {
 			captureScreen(driver,"TC_logintest_001");
 			Assert.assertTrue(false);
 			logger.info("login test failed");
-		}
-	}
+						
+		}		
+			
+	}	
+	@Test(priority=1)
 	
-
+	public void checktitle() {
+		driver.getTitle();
+		System.out.println(driver.getTitle());
+	}
+		
+	@Test(priority=2)
+	
+		public void checklogo() {
+		loginpage lp= new loginpage(driver);
+		
+		lp.checklogo();
+		
+		
+	}
 }
+

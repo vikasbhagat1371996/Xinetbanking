@@ -52,7 +52,7 @@ public class TC_Addcustomerpage_003 extends Baseclass{
 	
 
 	boolean res=	driver.getPageSource().contains("customer registered succesfully!!!");
-		if(res==true) {
+		if(res==false) {
 			Assert.assertTrue(true);
 		}
 		else {

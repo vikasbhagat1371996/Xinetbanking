@@ -33,6 +33,10 @@ public class loginpage {
 	@CacheLookup
 	WebElement logout;
 	
+	@FindBy(xpath="/html/body/div[1]/div[1]/div[1]/div[1]/a/img")
+	@CacheLookup
+	WebElement checklogo;
+	
 	//Set Actions Method on web Element
 	
 	public void setusername(String uname) {
@@ -50,6 +54,10 @@ public class loginpage {
 	
 	public void clicklogout() {
 		logout.click();
+	}
+	
+	public void checklogo() {
+		checklogo.isDisplayed();
 	}
 
 	

@@ -35,7 +35,7 @@ public class TC_Editcustomer_004 extends Baseclass {
 			Assert.assertTrue(true);
 		}
 		else {
-			captureScreen(driver,"TC_Editcustomer_004");
+			captureScreen(driver,"TC_Editcustomer_004");  //(driver,"TestCaseName)
 			Assert.assertTrue(false);
 			Thread.sleep(300);
 			driver.switchTo().alert().accept();
